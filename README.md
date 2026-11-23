@@ -1,3 +1,12 @@
+
+## 架构文档
+
+[查看分层、边界与源码依据](docs/architecture.md) · [编辑 draw.io 图源](docs/diagrams/docker-demo-architecture.drawio)
+
+当前状态：**源码现状**。
+
+![9Agent 官网容器化项目架构预览](docs/diagrams/docker-demo-logical.png)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
